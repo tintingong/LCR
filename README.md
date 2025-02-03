@@ -14,7 +14,6 @@
   - [Multiple linear regression, interactions, qualitative predictors](#multiple-linear-regression-interactions-qualitative-predictors)
   - [Classification (logistic regression, generative models)](#classification-logistic-regression-generative-models)
   - [Resampling methods (CV, bootstrap) and Linear model selection and regularization](#resampling-methods-cv-bootstrap-and-linear-model-selection-and-regularization)
-  + [How to get help](#how-to-get-help)
 * [Folder Structure](#folder-structure)
 
 ## Description
@@ -116,9 +115,6 @@ Feel free to use the following as resources:
 
 Alternative Textbook: [Data Science: A First Introduction](https://python.datasciencebook.ca/classification1.html) (Chapters 5-10)
 
-### How to get help
-![image](./steps_to_ask_for_help.png)
-
 ## Folder Structure
 
 ```markdown
@@ -130,8 +126,7 @@ Alternative Textbook: [Data Science: A First Introduction](https://python.datasc
 ├── 03_instructional_team
 ├── 04_this_cohort
 ├── LICENSE
-├── README.md
-└── steps_to_ask_for_help.png
+└── README.md
 ```
 
 * **.github**: Contains issue templates and pull request templates for the repository.
@@ -142,4 +137,4 @@ Alternative Textbook: [Data Science: A First Introduction](https://python.datasc
 * **.gitignore**: Files to exclude from this folder, specified by the Technical Facilitator
 * **LICENSE**: The license for this repository.
 * **README.md**: This file.
-* **steps_to_ask_for_help.png**: Guide on how to ask for help.
+
